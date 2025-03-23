@@ -6,6 +6,18 @@
 ---
 The analysis of medical videos for tasks such as action recognition, anomaly detection, and disease progression monitoring plays a vital role in improving diagnostic accuracy and treatment planning. Traditional models often struggle with efficiently capturing both spatial and temporal information. This project explores the use of the Mamba architecture for spatiotemporal analysis, leveraging its ability to model long sequences and capture temporal dependencies, providing an efficient and accurate solution for analyzing medical videos.
 
+🏥 **Dataset**
+---
+- **Paper**: *CardiacNet: Learning to Reconstruct Abnormalities for Cardiac Disease Assessment from Echocardiogram Videos* (ECCV 2024)
+  
+### **Background**:
+- Analyzes cardiac function and diseases using echocardiogram videos.
+- Challenges include diagnosing spatial and temporal heart motion patterns.
+
+📌 Dataset Link:https://www.kaggle.com/datasets/xiaoweixumedicalai/abnormcardiacechovideos
+
+Sample GIF of Brain with Tumor:
+
 🏗️ Proposed Model Architecture
 ---
 The model combines the Mamba architecture with Convolutional Neural Networks (CNNs) for spatial feature extraction from individual frames and a temporal module to capture the sequence of changes across frames. This hybrid approach efficiently processes both spatial and temporal information, allowing the model to focus on significant events in the video, enabling accurate analysis for tasks like action recognition, anomaly detection, and disease progression.
