@@ -52,8 +52,11 @@ The model combines the Mamba architecture with Convolutional Neural Networks (CN
 📌 Future Work
 
 🔹 Expanding the model to handle larger medical video datasets.
+
 🔹 Implementing real-time analysis for live clinical applications.
+
 🔹 Exploring alternative architectures for improved efficiency.
+
 🔹 Enhancing performance on action recognition and anomaly detection tasks.
 
 ## Citation
