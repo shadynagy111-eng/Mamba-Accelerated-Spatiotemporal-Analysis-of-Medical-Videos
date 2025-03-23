@@ -12,3 +12,60 @@ The model combines the Mamba architecture with Convolutional Neural Networks (CN
 
 🔷 Block Diagram :
 ![Image](https://github.com/user-attachments/assets/fdfe52fc-395d-4848-9e3e-3e4d346d2421)
+
+🔬 Methodology
+
+Dataset Preprocessing: Extracting frames from medical videos, followed by normalization, augmentation, and conversion into formats suitable for Mamba architecture processing. Temporal sequences are carefully aligned to ensure accurate spatiotemporal representation.
+
+Model Development: Implementing the Mamba architecture combined with CNNs to extract spatial features from individual video frames. These features, along with temporal information, are processed through the Mamba model to capture long-term dependencies and spatiotemporal dynamics in medical videos.
+
+Training & Evaluation: Training the model on medical video datasets for tasks like action recognition, anomaly detection, or disease progression analysis. Performance will be evaluated using standard metrics such as accuracy and F1 score, comparing the Mamba-based model to traditional CNN-based models.
+
+Optimization: Fine-tuning the hyperparameters of both the CNN and Mamba components to optimize the model's ability to learn and represent spatiotemporal features, ensuring higher accuracy and computational efficiency.
+
+⚡ Key Features
+
+✔️ Mamba Architecture - Efficiently models long temporal sequences, capturing both spatial and temporal dependencies in medical videos.
+
+✔️ Hybrid CNN-Mamba Fusion - Combines CNNs for spatial feature extraction with the Mamba model for temporal dynamics, enhancing accuracy in video analysis.
+
+✔️ Action & Anomaly Detection - Suitable for a variety of tasks such as action recognition, anomaly detection, and disease progression monitoring in medical videos.
+
+✔️ Computational Efficiency - Optimized for faster processing and reduced computational load, making it viable for real-time medical video analysis.
+
+## 🚀 Installation & Setup
+
+1. **Clone this repository:**
+
+   ```bash
+   git[ clone https://github.com/your-username/your-repository.git
+   cd your-repository](https://github.com/shadynagy111-eng/Mamba-Accelerated-Spatiotemporal-Analysis-of-Medical-Videos/edit/main/README.md)
+
+pip install -r requirements.txt
+
+python train.py
+
+
+## 📊 Results & Comparisons
+
+| Model               | Accuracy | Computation Time | Power Efficiency |
+|---------------------|----------|------------------|------------------|
+| CNN                 | ——       | ——               | ——               |
+| SNN                 | ——       | ——               | ——               |
+| Hybrid CNN-SNN      | ——       | ——               | ——               |
+
+📌 Key Takeaway: _____
+
+📌 Future Work
+
+🔹 Expanding the model to handle larger medical video datasets.
+🔹 Implementing real-time analysis for live clinical applications.
+🔹 Exploring alternative architectures for improved efficiency.
+🔹 Enhancing performance on action recognition and anomaly detection tasks.
+
+📩 Contact
+For inquiries or collaborations, reach out via:
+
+📧 Email:joe261777@gmail.com
+
+
