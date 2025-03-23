@@ -65,15 +65,9 @@ The model combines the Mamba architecture with Convolutional Neural Networks (CN
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{spiking2025,
+@article{mamba2025,
   title={Mamba-Accelerated Spatiotemporal Analysis of Medical Videos},
   author={Youssef Mohamed and Mohammed Abdel-Megeed and Shady Ahmed},
-  journal={Your Journal Name Here},
+  journal={__},
   year={2025}
 }
-
-
-
-
-
-
