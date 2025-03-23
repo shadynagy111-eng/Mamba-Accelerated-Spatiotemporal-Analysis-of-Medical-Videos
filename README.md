@@ -17,6 +17,7 @@ The analysis of medical videos for tasks such as action recognition, anomaly det
 📌 Dataset Link:https://www.kaggle.com/datasets/xiaoweixumedicalai/abnormcardiacechovideos
 
 Sample GIF of Brain with Tumor:
+<!-- Uploading "new dataset.gif"... -->
 
 🏗️ Proposed Model Architecture
 ---
