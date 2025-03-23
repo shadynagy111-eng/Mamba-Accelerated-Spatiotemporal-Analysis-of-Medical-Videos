@@ -11,4 +11,4 @@ The analysis of medical videos for tasks such as action recognition, anomaly det
 The model combines the Mamba architecture with Convolutional Neural Networks (CNNs) for spatial feature extraction from individual frames and a temporal module to capture the sequence of changes across frames. This hybrid approach efficiently processes both spatial and temporal information, allowing the model to focus on significant events in the video, enabling accurate analysis for tasks like action recognition, anomaly detection, and disease progression.
 
 🔷 Block Diagram :
-![image alt](C:\Users\ym156\Desktop\Pastel Flowchart Diagram Template.png)
+![Image](https://github.com/user-attachments/assets/fdfe52fc-395d-4848-9e3e-3e4d346d2421)
