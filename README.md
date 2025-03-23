@@ -14,11 +14,10 @@ The analysis of medical videos for tasks such as action recognition, anomaly det
 - Analyzes cardiac function and diseases using echocardiogram videos.
 - Challenges include diagnosing spatial and temporal heart motion patterns.
 
-📌 Dataset Link:https://www.kaggle.com/datasets/xiaoweixumedicalai/abnormcardiacechovideos
+Link:https://www.kaggle.com/datasets/xiaoweixumedicalai/abnormcardiacechovideos
 
 Sample GIF of Brain with Tumor:
-<!-- Uploading "new dataset.gif"... -->
-
+![Image](https://github.com/user-attachments/assets/a77715fb-0998-4cbc-8745-f9ef81419477)
 🏗️ Proposed Model Architecture
 ---
 The model combines the Mamba architecture with Convolutional Neural Networks (CNNs) for spatial feature extraction from individual frames and a temporal module to capture the sequence of changes across frames. This hybrid approach efficiently processes both spatial and temporal information, allowing the model to focus on significant events in the video, enabling accurate analysis for tasks like action recognition, anomaly detection, and disease progression.
