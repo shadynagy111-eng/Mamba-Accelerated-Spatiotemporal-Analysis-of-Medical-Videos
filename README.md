@@ -66,15 +66,13 @@ If you use this work in your research, please cite:
 ```bibtex
 @article{spiking2025,
   title={Mamba-Accelerated Spatiotemporal Analysis of Medical Videos},
-  author={Karim, Mostafa Ahmed and Mohammed Abdel-Megeed and Shady Ahmed},
+  author={Youssef Mohamed and Mohammed Abdel-Megeed and Shady Ahmed},
   journal={Your Journal Name Here},
   year={2025}
 }
 
 
-📩 Contact
-For inquiries or collaborations, reach out via:
 
-📧 Email:joe261777@gmail.com
+
 
 
