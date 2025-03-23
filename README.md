@@ -13,15 +13,12 @@ The model combines the Mamba architecture with Convolutional Neural Networks (CN
 🔷 Block Diagram :
 ![Image](https://github.com/user-attachments/assets/fdfe52fc-395d-4848-9e3e-3e4d346d2421)
 
-🔬 Methodology
+🔬 **Methodology**
 
-Dataset Preprocessing: Extracting frames from medical videos, followed by normalization, augmentation, and conversion into formats suitable for Mamba architecture processing. Temporal sequences are carefully aligned to ensure accurate spatiotemporal representation.
-
-Model Development: Implementing the Mamba architecture combined with CNNs to extract spatial features from individual video frames. These features, along with temporal information, are processed through the Mamba model to capture long-term dependencies and spatiotemporal dynamics in medical videos.
-
-Training & Evaluation: Training the model on medical video datasets for tasks like action recognition, anomaly detection, or disease progression analysis. Performance will be evaluated using standard metrics such as accuracy and F1 score, comparing the Mamba-based model to traditional CNN-based models.
-
-Optimization: Fine-tuning the hyperparameters of both the CNN and Mamba components to optimize the model's ability to learn and represent spatiotemporal features, ensuring higher accuracy and computational efficiency.
+1. **Dataset Preprocessing**: Extract and preprocess frames from medical videos for spatial and temporal feature extraction.
+2. **Model Development**: Combine CNNs for spatial feature extraction with the Mamba architecture for spatiotemporal learning.
+3. **Training & Evaluation**: Train the model on medical video tasks and evaluate using accuracy and F1 score.
+4. **Optimization**: Fine-tune hyperparameters to improve model performance and efficiency.
 
 ⚡ Key Features
 
