@@ -16,8 +16,10 @@ The analysis of medical videos for tasks such as action recognition, anomaly det
 
 Link:https://www.kaggle.com/datasets/xiaoweixumedicalai/abnormcardiacechovideos
 
-**Sample GIF:
-**---
+**Sample GIF:**
+
+
+
 ![Image](https://github.com/user-attachments/assets/a77715fb-0998-4cbc-8745-f9ef81419477)
 
 🏗️ Proposed Model Architecture
