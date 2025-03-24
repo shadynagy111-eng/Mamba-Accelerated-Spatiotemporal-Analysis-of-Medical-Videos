@@ -16,8 +16,9 @@ The analysis of medical videos for tasks such as action recognition, anomaly det
 
 Link:https://www.kaggle.com/datasets/xiaoweixumedicalai/abnormcardiacechovideos
 
-Sample GIF of Brain with Tumor:
+Sample GIF:
 ![Image](https://github.com/user-attachments/assets/a77715fb-0998-4cbc-8745-f9ef81419477)
+
 🏗️ Proposed Model Architecture
 ---
 The model combines the Mamba architecture with Convolutional Neural Networks (CNNs) for spatial feature extraction from individual frames and a temporal module to capture the sequence of changes across frames. This hybrid approach efficiently processes both spatial and temporal information, allowing the model to focus on significant events in the video, enabling accurate analysis for tasks like action recognition, anomaly detection, and disease progression.
@@ -43,8 +44,9 @@ The model combines the Mamba architecture with Convolutional Neural Networks (CN
 
 ✔️ Computational Efficiency - Optimized for faster processing and reduced computational load, making it viable for real-time medical video analysis.
 
-🚀 Installation & Setup
 
+**🚀 Installation & Setup
+---
 1. **Clone this repository:**
 
    ```bash
@@ -72,7 +74,7 @@ The model combines the Mamba architecture with Convolutional Neural Networks (CN
 
 🔹 Enhancing performance on action recognition and anomaly detection tasks.
 
-## Citation
+## 📜Citation
 
 If you use this work in your research, please cite:
 
