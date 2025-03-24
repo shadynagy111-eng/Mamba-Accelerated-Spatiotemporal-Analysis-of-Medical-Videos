@@ -17,6 +17,7 @@ The analysis of medical videos for tasks such as action recognition, anomaly det
 Link:https://www.kaggle.com/datasets/xiaoweixumedicalai/abnormcardiacechovideos
 
 Sample GIF:
+**
 ![Image](https://github.com/user-attachments/assets/a77715fb-0998-4cbc-8745-f9ef81419477)
 
 🏗️ Proposed Model Architecture
@@ -45,7 +46,7 @@ The model combines the Mamba architecture with Convolutional Neural Networks (CN
 ✔️ Computational Efficiency - Optimized for faster processing and reduced computational load, making it viable for real-time medical video analysis.
 
 
-**🚀 Installation & Setup
+🚀 Installation & Setup
 ---
 1. **Clone this repository:**
 
